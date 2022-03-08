@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+.ul
+{
+    list-style: none;
+    border: 0.0001px solid black;
+    border-bottom: 0.001px solid black;
+    display: flex;
+    margin-left: 68vh;
+    margin-top: 3vh;
+}
+.li
+{
+    margin-left: 22px;
+    border-radius: 12px;
+    font-size: 19px;
+    cursor: pointer;
+    font-family: sans-serif;
+    
+}
+.heading
+{
+    margin-top: -.7vh;
+}
+.navbar
+{
+    height: 9vh;
+    border: 0.01px solid lightgray;
+}
+.titlecontainer
+{
+    margin-left: 10vh;
+}
