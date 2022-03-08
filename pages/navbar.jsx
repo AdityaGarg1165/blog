@@ -12,7 +12,7 @@ function Navbar() {
           <Link href="/latest">
             <li className={styles.li}>Blogs</li>
           </Link>
-          <Link href="/latest">
+          <Link href="/about">
             <li className={styles.li}>Latest</li>
           </Link>
           <Link href="recommended ">

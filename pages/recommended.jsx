@@ -1,9 +1,6 @@
-import React from 'react'
 
-function Recommended() {
+export default function recommended() {
   return (
     <div>recommended</div>
   )
 }
-
-export default Recommended
