@@ -12,7 +12,7 @@ export default function Home() {
   return (
     <div>
       <div>
-        <h1 className={styles.name}>&lt;Crazy Coder/&gt;</h1>
+        <h1 className={styles.name}>&lt;Crazy Choder/&gt;</h1>
           {jsondata && jsondata.map((post)=>(
             <Link href={"/blogpost/" + post.attributes.slug} key={post.attributes.slug}>
             <div className={styles.titlecontainer} key={post.attributes.slug}>
